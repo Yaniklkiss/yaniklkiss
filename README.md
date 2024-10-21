@@ -67,3 +67,12 @@
 
 ---
 
+
+### 📝 Тестовые артефакты:
+- [Теория тестирования](https://github.com/Yaniklkiss/theory)
+- [Техники тест-дизайна](https://github.com/Yaniklkiss/design)
+- [Тестовая документация и тестирование веб-приложения](https://github.com/Yaniklkiss/docs)
+- [Тестирование API](https://github.com/Yaniklkiss/api)
+- [Работа с базами данных](https://github.com/Yaniklkiss/database)
+- [Тестирование мобильного приложения](https://github.com/Yaniklkiss/-mobile)
+- [Работа с GitBash](https://github.com/Yaniklkiss/-git_bash)
